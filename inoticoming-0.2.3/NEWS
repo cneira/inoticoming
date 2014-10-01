@@ -1,0 +1,18 @@
+new since 0.2.2:
+- improve init example
+
+new since 0.2.1:
+- change coding style, no functional changes
+
+new since 0.2.0:
+- modernize build system
+
+new since 0.1.1:
+- new --initialsearch option
+
+new since 0.1.0:
+- make log output always line buffered
+
+new since 0.0.1:
+- new --prefix and --suffix to avoid using regular expressions
+  for the easy cases.

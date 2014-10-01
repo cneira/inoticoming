@@ -1,0 +1,18 @@
+2008-06-26  Bernhard R. Link <brlink@debian.org>
+	* some modernisations of the build system
+	  and add examples
+
+2007-08-18  Bernhard R. Link <brlink@debian.org>
+	* add --initialsearch option. Thanks to Robert Edmonds
+	* update and extend option descriptions on --help and errors
+	* fix short options
+
+2007-07-15  Bernhard R. Link <brlink@debian.org>
+	* make stdout/stderr always line buffered
+
+2007-07-14  Bernhard R. Link <brlink@debian.org>
+	* add --prefix and --suffix trigger-options.
+	* listen for directory to vanish
+
+2007-07-11  Bernhard R. Link <brlink@debian.org>
+	* apply manpage fixes from Robert Edmonds
